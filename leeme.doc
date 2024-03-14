@@ -5,4 +5,3 @@ en el archivo layout tambien se importo la libreria que se encarga de usar la ap
 
 3. se construto una estructura de carpetas que la convencion de clerk espera "app/sign-up/[[...sign-up]]/page.tsx  and app/sign-in/[[...sign-in]]/page.tsx"
 
-4. 
