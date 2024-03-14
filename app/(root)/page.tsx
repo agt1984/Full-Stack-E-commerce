@@ -1,7 +1,13 @@
+"use client"; //para el cliente
+
+import { Modal } from "@/components/ui/modal";
+
 const SetupPage = () => {
   return (
     <div className="p-4">
-        This is a protected route!
+      <Modal title="Test" description="Test Desc" isOpen onClose={() => {}}>
+        Children
+      </Modal>
     </div>
   );
 }
