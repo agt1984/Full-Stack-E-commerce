@@ -1,0 +1,8 @@
+1. este proyecto esta configurado en rutas que no afectan las rutas URL (ROUTE GRUPING)
+
+2. con clerk se configuro la autenticacion y ademas se creo un middleware para su funcionamiento, 
+en el archivo layout tambien se importo la libreria que se encarga de usar la app.
+
+3.se construto una estructura de carpetas que la convencion de clerk espera "app/sign-up/[[...sign-up]]/page.tsx"
+
+4. dent
